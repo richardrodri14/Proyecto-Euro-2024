@@ -1,0 +1,66 @@
+[
+    {
+        "id_cliente": "bc1133da-eadf-4d7b-a534-a890951b5600",
+        "pedidos": [
+            {
+                "nombre": "Inteligente Hormigon Patatas fritas",
+                "precio": 911.76,
+                "clasificacion": "plate",
+                "cantidad": 1
+            }
+        ],
+        "descuento": 0,
+        "id": "c5efb357-a339-4cd9-a2f8-0e4c27d8c865"
+    },
+    {
+        "id_cliente": "251544db-686d-467d-bdb5-52922cbe7c2e",
+        "pedidos": [
+            {
+                "nombre": "Pr\u00e1ctico Granito Raton",
+                "precio": 439.64,
+                "clasificacion": "alcoholic",
+                "cantidad": 5
+            }
+        ],
+        "descuento": 0,
+        "id": "2913dcc7-9253-4ebc-a2c8-215179c86d50"
+    },
+    {
+        "id_cliente": "bc1133da-eadf-4d7b-a534-a890951b5600",
+        "pedidos": [
+            {
+                "nombre": "Guapo Ladrillo Pelota",
+                "precio": 619.44,
+                "clasificacion": "alcoholic",
+                "cantidad": 100
+            },
+            {
+                "nombre": "Artesanal Hormigon Guantes",
+                "precio": 1142.6,
+                "clasificacion": "package",
+                "cantidad": 1
+            }
+        ],
+        "descuento": 0,
+        "id": "ffe1e6ec-4ab6-4c82-85e4-94e40fe65c47"
+    },
+    {
+        "id_cliente": "bc1133da-eadf-4d7b-a534-a890951b5600",
+        "pedidos": [
+            {
+                "nombre": "Pr\u00e1ctico Granito Raton",
+                "precio": 439.64,
+                "clasificacion": "alcoholic",
+                "cantidad": 2
+            },
+            {
+                "nombre": "Inteligente Hormigon Patatas fritas",
+                "precio": 911.76,
+                "clasificacion": "plate",
+                "cantidad": 3
+            }
+        ],
+        "descuento": 0,
+        "id": "99e4ec93-b904-4e48-bacd-defbec741753"
+    }
+]

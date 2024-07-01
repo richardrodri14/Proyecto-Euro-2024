@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "Luis Pe\u00f1a",
+        "cedula": 27377309,
+        "edad": 24,
+        "id": "bc1133da-eadf-4d7b-a534-a890951b5600"
+    },
+    {
+        "nombre": "Jose Perez",
+        "cedula": 1260,
+        "edad": 22,
+        "id": "251544db-686d-467d-bdb5-52922cbe7c2e"
+    }
+]

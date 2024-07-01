@@ -1,0 +1,32 @@
+[
+    {
+        "id_cliente": "bc1133da-eadf-4d7b-a534-a890951b5600",
+        "id_partido": "1304daa3-c591-464e-adbc-192538de2e40",
+        "tipo": 1,
+        "asiento": "A1",
+        "precio": 35,
+        "descuento": 0,
+        "usado": true,
+        "codigo": "7b2ed999-d817-41d6-a57a-d4128468d7dc"
+    },
+    {
+        "id_cliente": "bc1133da-eadf-4d7b-a534-a890951b5600",
+        "id_partido": "1304daa3-c591-464e-adbc-192538de2e40",
+        "tipo": 2,
+        "asiento": "A81",
+        "precio": 75,
+        "descuento": 0,
+        "usado": false,
+        "codigo": "410306f2-3c4a-48a3-86de-3d2869e3cc06"
+    },
+    {
+        "id_cliente": "251544db-686d-467d-bdb5-52922cbe7c2e",
+        "id_partido": "15b30b11-8714-4e5f-b142-d4084b88aa92",
+        "tipo": 2,
+        "asiento": "A46",
+        "precio": 75,
+        "descuento": 37.5,
+        "usado": false,
+        "codigo": "e81a2783-8456-4212-adc3-8f2089ed4796"
+    }
+]
